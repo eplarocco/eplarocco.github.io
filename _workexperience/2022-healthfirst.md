@@ -1,6 +1,6 @@
 ---
 title: "HealthFirst"
-collection: work
+collection: workexperience
 type: "Data Scientist"
 permalink: /workexperience/2022-healthfirst
 venue: "University of Virginia, Data Science"
