@@ -2,7 +2,7 @@
 title: "HealthFirst"
 collection: workexperience
 type: "Data Scientist"
-permalink: /workexperience/2022-healthfirst
+permalink: /workexperience/2022-07-01-healthfirst
 venue: "University of Virginia, Data Science"
 date: 2022-07-01
 location: "New York City, NY"
