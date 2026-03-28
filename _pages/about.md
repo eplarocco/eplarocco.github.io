@@ -9,7 +9,7 @@ redirect_from:
 
 2nd year PhD in Data Science Candidate at the University of Virginia
 
-Focus on Safety through Explainable AI and Alignment in the Medical Domain
+Focus: Medical Safety through Explainable AI
 
 Education
 ======
@@ -39,8 +39,8 @@ Crew Chief, Vassar College Emergency Medical Service (EMS), 2018 - 2020
 
 Personal
 ======
-- 3-year-old rescue little white dog names Petey 🐩
+- 3-year-old rescue puppy named Petey 🐩
 - Played classical piano for 15 years 🎹
 - Assisted in surgery on a porcupine 🦔
-- Create artwork out of recycled materials ♻️
+- Creates artwork out of recycled materials ♻️
 - Vegan 🥦
