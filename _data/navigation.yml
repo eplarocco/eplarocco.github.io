@@ -17,8 +17,8 @@ main:
   - title: "Work Experience"
     url: /work-experience/
         
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+  #  url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
