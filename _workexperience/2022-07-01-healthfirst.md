@@ -1,9 +1,8 @@
 ---
-title: "HealthFirst"
+title: "Data Scientist"
 collection: workexperience
-type: "Data Scientist"
 permalink: /workexperience/2022-07-01-healthfirst
-venue: "University of Virginia, Data Science"
+venue: "HealthFirst"
 date: 2022-07-01
 location: "New York City, NY"
 ---
