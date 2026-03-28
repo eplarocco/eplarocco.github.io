@@ -45,3 +45,10 @@ Chaired for Yoshua Bengio
 Crew Chief, Vassar College Emergency Medical Service (EMS), 2018 - 2020
 ----
 Led EMS crew as certified EMT to provide pre-hospital physical and psychological assessments
+
+Personal
+======
+- I have a 3-year-old rescue little white dog names Petey.
+- I played classical piano for 15 years.
+- I like to create artwork out of recycled materials.
+- I am vegan.
