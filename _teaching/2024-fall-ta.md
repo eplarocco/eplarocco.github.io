@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-fall-ta
 venue: "University of Virginia, Data Science"
-date: 2044-09-01
+date: 2024-09-01
 location: "Charlottesville, VA"
 ---
 
