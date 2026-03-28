@@ -228,10 +228,13 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
+    output: false
+    permalink: /:collection/:path/
+  workexperience:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
