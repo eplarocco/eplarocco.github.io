@@ -50,12 +50,11 @@ Bachelor of Arts in Biology
 **Student Organizer & Area Chair**  
 Regulatable ML Workshop, NeurIPS 2025  
 
-- Chaired for Yoshua Bengio  
+- Served as chair for Yoshua Bengio's session 
 
 **Crew Chief**, Vassar College Emergency Medical Service *(2018–2020)*  
 
-- Led EMS crew as a certified EMT  
-- Conducted pre-hospital physical and psychological assessments  
+- Led EMS crew as certified EMT to provide pre-hospital physical and psychological assessments 
 
 ---
 
