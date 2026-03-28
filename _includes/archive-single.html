@@ -43,7 +43,7 @@
         {% elsif post.collection == 'publications' %}
           <p>
             {% if post.category == "in_preparation" %}
-              In Preparation for <i>{{ post.venue }}</i>
+              In Preparation for <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
             {% elsif post.category == "published" %}
               Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
             {% else %}
