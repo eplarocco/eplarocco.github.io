@@ -39,8 +39,8 @@ Crew Chief, Vassar College Emergency Medical Service (EMS), 2018 - 2020
 
 Personal
 ======
-- I have a 3-year-old rescue little white dog names Petey 🐩
-- I played classical piano for 15 years 🎹
-- I've assisted in surgery on a porcupine 🦔
-- I create artwork out of recycled materials ♻️
-- I am vegan 🥦
+- 3-year-old rescue little white dog names Petey 🐩
+- Played classical piano for 15 years 🎹
+- Assisted in surgery on a porcupine 🦔
+- Create artwork out of recycled materials ♻️
+- Vegan 🥦
