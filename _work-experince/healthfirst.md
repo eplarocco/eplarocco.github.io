@@ -12,6 +12,6 @@ location: "New York City, NY"
 in electronic health records (EHRs) to aid auditing of diagnosis codes
 - Conducted a retrospective program evaluation with propensity score matching and survival
 analysis to estimate the effectiveness of our care management programs
-- Built gradient boosting classification models to predict Medicare members at high-risk for
+- Led year-long machine learning project end-to-end from data-processing to stakeholder integration: Built gradient boosting classification models to predict Medicare members at high-risk for
 in-patient and emergency department claims (AUC 0.78); presented results to executives and
 clinicians
