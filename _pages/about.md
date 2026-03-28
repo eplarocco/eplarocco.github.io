@@ -13,9 +13,9 @@ Focus on Safety through Explainable AI and Alignment in the Medical Domain
 
 Education
 ======
-- University of Virginia | PhD in Data Science | Advisor: Dr. Chirag Agarwal
-- College of William & Mary | Master of Science in Business Analytics
-- Vassar College | Bachelor of Arts in Biology
+- University of Virginia, PhD in Data Science (Expected 2028), Advisor: Dr. Chirag Agarwal
+- College of William & Mary, Master of Science in Business Analytics
+- Vassar College, Bachelor of Arts in Biology
 
 Honors & Awards
 ======
@@ -42,5 +42,5 @@ Personal
 - I have a 3-year-old rescue little white dog names Petey 🐩
 - I played classical piano for 15 years 🎹
 - I've assisted in surgery on a porcupine 🦔
-- I like to create artwork out of recycled materials ♻️
+- I create artwork out of recycled materials ♻️
 - I am vegan 🥦
