@@ -31,7 +31,7 @@ Bachelor of Arts in Biology
 ## 🏆 Honors & Awards
 
 - **The Raven Society**, University of Virginia (2026)  
-- **Beta Gamma Sigma Honor Society**, William & Mary (2024)  
+- **Beta Gamma Sigma Honor Society**, William & Mary (2022)  
 - **3rd Place Overall**, Cypher VII Hackathon, William & Mary (2022)  
 
 ---
