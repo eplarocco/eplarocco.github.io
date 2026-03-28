@@ -40,6 +40,8 @@
 
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+        {% elif post.collection == 'workexperience' %}
+          <p> {{ post.venue }}, <i>{{ post.location }}</i>, Start Date: {{ post.start_date | default: "1900-01-01" | date: "%Y" }}, End Date: {{ post.end_date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
           <p>
             {% if post.category == "in_preparation" %}
