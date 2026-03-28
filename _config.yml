@@ -23,7 +23,7 @@ repository               : "eplarocco/eplarocco.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/profile.png"
   name             : "Eileanor LaRocco"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Data Science"
@@ -61,7 +61,7 @@ author:
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
-  goodreads        : "eileanor-larocco"
+  goodreads        : "174955497"
   google_plus      : # Username
   keybase          : # Username
   instagram        : # Username
