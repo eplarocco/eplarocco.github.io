@@ -4,7 +4,7 @@ collection: workexperience
 permalink: /workexperience/2022-07-01-healthfirst
 venue: "HealthFirst"
 start_date: 2022-07-01
-enddate: 2024-07-01
+end_date: 2024-07-01
 location: "New York City, NY"
 ---
 
