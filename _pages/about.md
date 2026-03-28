@@ -13,15 +13,9 @@ Focus on Safety through Explainable AI and Alignment in the Medical Domain
 
 Education
 ======
-University of Virginia | PhD in Data Science
-----
-Advisor: Dr. Chirag Agarwal
-
-College of William & Mary | Master of Science in Business Analytics
-----
-
-Vassar College | Bachelor of Arts in Biology
-----
+- University of Virginia | PhD in Data Science | Advisor: Dr. Chirag Agarwal
+- College of William & Mary | Master of Science in Business Analytics
+- Vassar College | Bachelor of Arts in Biology
 
 Honors & Awards
 ======
@@ -32,19 +26,16 @@ Honors & Awards
 Fellowships
 ======
 Community Data Fellow, University of Virginia, 2025-2026
-----
-Partnering with The Fountain Fund to translate data insights into actionable intervention strategies,
+- Partnering with The Fountain Fund to translate data insights into actionable intervention strategies,
 enhancing lending outcomes for formerly incarcerated people
 
 Service
 ======
 Student Organizer & Area Chair, Regulatable ML Workshop, NeurIPS 2025
-----
-Chaired for Yoshua Bengio
+- Chaired for Yoshua Bengio
 
 Crew Chief, Vassar College Emergency Medical Service (EMS), 2018 - 2020
-----
-Led EMS crew as certified EMT to provide pre-hospital physical and psychological assessments
+- Led EMS crew as certified EMT to provide pre-hospital physical and psychological assessments
 
 Personal
 ======
