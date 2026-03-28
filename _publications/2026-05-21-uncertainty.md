@@ -3,7 +3,7 @@ title: "Calibrated Uncertainty Communication Should Be a Regulatory Requirement 
 collection: publications
 category: in_preparation
 permalink: /publication/2026-05-21-uncertainty
-excerpt: 'Paper Description'
+#excerpt: 'Paper Description'
 date: 2026-05-21
 venue: 'AIES'
 #paperurl: 'https://academicpages.github.io/files/paper3.pdf'
