@@ -7,5 +7,5 @@ permalink: /publication/2026-05-21-uncertainty
 date: 2026-05-21
 venue: 'AIES'
 #paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Eileanor LaRocco, Chirag Agarwal, Sarah Tan'
+citation: 'Eileanor LaRocco, Sarah Tan, Chirag Agarwal'
 ---
