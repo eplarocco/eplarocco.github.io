@@ -1,5 +1,5 @@
 ---
-title: "Calibrated Uncertainty Communication Should Be a Regulatory Requirement for High-Risk Clinical AI"
+title: "From Advisory to Autonomy in Healthcare: A Clinician-Driven Case for Constraining Autonomous AI in Prescribing"
 collection: publications
 category: in_preparation
 permalink: /publication/2026-05-21-uncertainty
