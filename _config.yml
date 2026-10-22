@@ -88,6 +88,8 @@ publication_category:
     title: 'Books'
   in_preparation:
     title: 'In Preparation'    
+  in_review:
+    title: 'In Review'
   published:
     title: 'Published'
 
