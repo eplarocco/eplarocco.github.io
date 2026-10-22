@@ -1,11 +1,11 @@
 ---
-title: "DS2022 Systems I: Intro to Computing"
+title: "DS 6051: Decoding Large-Language Models"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2024-fall-ta
+type: "Masters course"
+permalink: /teaching/2026-summer-ta
 venue: "University of Virginia, Data Science"
-date: 2024-09-01
+date: 2026-07-01
 location: "Charlottesville, VA"
 ---
 
-Professional code de-bugger for 71 students building a music hosting website from scratch (https://github.com/nmagee/spotify). Hosted weekly office hours to assist second year students in learning how to use the Linux CLI, Bash, Github, Docker, AWS (EC2, S3, Lambda), SQL, and MongoDB.
+Graduate-level course on large language models (LLMs) covering Tokenizers, Prompt Engineering, Fine-tuning LLMs, Quantization in LLMs, In-context Learning (ICL), AI Safety, and Chain-of-Thought (CoT) reasoning. Organized a course hackathon to create safety evaluation harnesses for Gemma.
