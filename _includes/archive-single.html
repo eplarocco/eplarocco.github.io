@@ -46,6 +46,8 @@
           <p>
             {% if post.category == "in_preparation" %}
               In Preparation
+            {% elsif post.category == "in_review" %}
+              In Review
             {% elsif post.category == "published" %}
               Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
             {% else %}
