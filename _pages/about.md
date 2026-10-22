@@ -21,7 +21,7 @@ PhD in Data Science *(Expected 2028)*
 Advisor: Dr. Chirag Agarwal  
 
 **College of William & Mary**  
-Master of Science in Business Analytics  
+Master of Science in Business Analytics  (3.97 GPA pre-ChatGPT 😎)
 
 **Vassar College**  
 Bachelor of Arts in Biology  
