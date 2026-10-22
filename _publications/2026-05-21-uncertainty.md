@@ -1,11 +1,11 @@
 ---
-title: "From Advisory to Autonomy in Healthcare: A Clinician-Driven Case for Constraining Autonomous AI in Prescribing"
+title: "The Clinician's Veto: Navigating Trust, Liability, and Uncertainty in Autonomous AI Prescribing"
 collection: publications
-category: in_preparation
+category: published
 permalink: /publication/2026-05-21-uncertainty
 #excerpt: 'Paper Description'
-date: 2026-05-21
-venue: 'AIES'
-#paperurl: 'https://academicpages.github.io/files/paper3.pdf'
+date: 2026-08-24
+venue: 'Arxiv'
+#paperurl: 'https://arxiv.org/abs/2606.25108'
 citation: 'Eileanor LaRocco (UVA), Anne Andrews (NIST), Cree Gaskin (UVA School of Medicine), Andrew Taylor (UVA School of Medicine), Adarsh Subbaswamy (University of Maryland School of Pharmacy), Sarah Tan (Cornell University), Chirag Agarwal (UVA)'
 ---
