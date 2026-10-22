@@ -1,5 +1,5 @@
 ---
-title: "Activation Maximization for Jailbreaking LLMs"
+title: "Dynamic Programming Defense against Adaptable Jailbreaking Attacks in LLMs"
 collection: publications
 category: in_preparation
 permalink: /publication/2026-05-01-activation
