@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**2nd Year PhD Candidate in Data Science**  
+**3rd Year PhD Candidate in Data Science**  
 University of Virginia  
 
 **Research Focus:** Medical Safety through Explainable AI  
@@ -30,6 +30,7 @@ Bachelor of Arts in Biology
 
 ## 🏆 Honors & Awards
 
+- **1st Place Overall**, AI Safety & Interpretability Hackathon, University of Virginia (2026)  
 - **The Raven Society**, University of Virginia (2026)  
 - **Beta Gamma Sigma Honor Society**, William & Mary (2022)  
 - **3rd Place Overall**, Cypher VII Hackathon, William & Mary (2022)  
